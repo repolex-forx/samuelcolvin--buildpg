@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "buildpg",
+  "versions": [
+    {
+      "commit": "e2a16abea5c7607b53c501dbae74a5765ba66e15",
+      "parsed_at": "2026-10-11T21:46:04.850864+00:00",
+      "filetree": "filetree/e2a16abea5c7607b53c501dbae74a5765ba66e15.nq.gz",
+      "blobs": [
+        "blob/51319988dd9f83da89e15d3d9b19c1573673bf89.nq.gz",
+        "blob/4eea85780da1cf7be75d5cbd4cba5322f4ee6a62.nq.gz",
+        "blob/3ade0b8d2a298c963e71a679e359ef5fc52049fc.nq.gz",
+        "blob/6891cf8734e0a915ecc0fcfbc393d0fd1e470902.nq.gz",
+        "blob/6bf130f0c91398ab024a5130ac602bb4ccd9cb0e.nq.gz",
+        "blob/c49dd5fefd6f5a43d57fb050bf9f16e7db43589e.nq.gz",
+        "blob/4854c09c0a17f1bc39ffbbb98cf0174415d34597.nq.gz",
+        "blob/592e67dd097da9be85049d5eb3a03947d4cd4f30.nq.gz",
+        "blob/7629d64646c3b0d460a135fe40b2c63731e3fbd1.nq.gz",
+        "blob/645a2e1d1cdf07dfe3280541ef029a75ce71711b.nq.gz",
+        "blob/7bd95ecedb8af925bdcdbb2eca0dbb76f9eaee8a.nq.gz",
+        "blob/0456082bfdd4506619665ca88b0a72c729f0697f.nq.gz",
+        "blob/155836bfa7280f7e8ce386d449a0cf43433e4504.nq.gz",
+        "blob/2ac794d5b2ff814b5e417d62652a9397f2ebf793.nq.gz",
+        "blob/88d25c8aebf0a5a0c76bc1b0673db9868eb769a7.nq.gz",
+        "blob/09553a8c9a42a3760d6dcfb6d5a42e0f7d7eafb3.nq.gz",
+        "blob/0ded0420be269417ec2bf0b5b839c4caab361c4e.nq.gz",
+        "blob/dc9680b875bf33eb2f59d944e4d6c97252bd1dd9.nq.gz",
+        "blob/0c71cd70bbe38f1dc109d5269a384fbfcde3c652.nq.gz",
+        "blob/01aae69a824ae3b8e631b7cc928c08f464540eb2.nq.gz",
+        "blob/f5020f0476f9efc057158894988aedaee1a6f7f6.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/944a8c7a94baafe7f90ce4275ab7ebf03ffd9efe.nq.gz",
+        "blob/6f79c63d718f4929ccb30e569d4981acbdfd541f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
